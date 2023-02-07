@@ -1,4 +1,4 @@
-# NvidiaTeslaP40forGaming
+# Nvidia Tesla P40 for Gaming
 Using a Tesla P40 for Gaming with an Intel iGPU as Display Output on Windows 11 22H2. [中文版本](https://github.com/toAlice/NvidiaTeslaP40forGaming/blob/main/README_CHS.md)
 
 ## Requirements

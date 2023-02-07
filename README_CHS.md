@@ -1,4 +1,4 @@
-# NvidiaTeslaP40forGaming
+# Nvidia Tesla P40 for Gaming
 在 Windows 11 22H2 系统上配合 Intel 核显输出，在 nVidia Tesla P40 计算卡上运行游戏的配置方法。[English Ver.](https://github.com/toAlice/NvidiaTeslaP40forGaming/blob/main/README.md)
 
 ## 摘要
